@@ -9,7 +9,7 @@ public class GradeCalculator {
 
         boolean calculateAgain = true;
 
-        System.out.println(" Student Grade Calculator (Advanced)");
+        System.out.println(" Student Grade Calculator");
 
         while (calculateAgain) {
 
